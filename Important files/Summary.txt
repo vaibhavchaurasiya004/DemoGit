@@ -1,0 +1,1 @@
+This is going to check the direct commit won't commit the untracked files
