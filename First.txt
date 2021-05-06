@@ -1,3 +1,1 @@
-Raja
-Rancho
-Demo
+This is my config file
